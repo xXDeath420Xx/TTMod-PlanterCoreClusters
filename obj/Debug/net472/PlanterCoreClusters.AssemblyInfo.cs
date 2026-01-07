@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlanterCoreClusters")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30bf23a7bb15f9d9a606b367dc63221b13c4ebb1")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlanterCoreClusters")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlanterCoreClusters")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

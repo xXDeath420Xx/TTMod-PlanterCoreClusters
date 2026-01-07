@@ -7,3 +7,4 @@ C:\Users\crawf\TechtonicaMods\NewMods\PlanterCoreClusters\bin\Debug\net472\Plant
 C:\Users\crawf\TechtonicaMods\NewMods\PlanterCoreClusters\bin\Debug\net472\PlanterCoreClusters.pdb
 C:\Users\crawf\TechtonicaMods\NewMods\PlanterCoreClusters\obj\Debug\net472\PlanterCoreClusters.dll
 C:\Users\crawf\TechtonicaMods\NewMods\PlanterCoreClusters\obj\Debug\net472\PlanterCoreClusters.pdb
+C:\Users\crawf\TechtonicaMods\NewMods\PlanterCoreClusters\obj\Debug\net472\PlanterCoreClusters.sourcelink.json
